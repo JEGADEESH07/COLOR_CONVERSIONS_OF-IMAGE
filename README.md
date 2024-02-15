@@ -169,7 +169,9 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Untitled](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/3bdf428c-1eea-4d2a-9dce-50cc404d8513)
+![image](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/eecfb31e-0b9f-41ee-a5a1-cd8bb678e64b)
+![image](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/d47039d6-f63e-43d0-924f-22a661235688)
+
 
 
 
@@ -190,7 +192,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Untitled](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/a1667212-e22d-4bb0-9141-55aceadd709d)
+![image](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/791b655c-d57d-4020-b6a0-5ed614730936)
 
 
 
@@ -209,7 +211,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Untitled](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/26019da9-b3e0-494f-995d-87532f57a293)
+![image](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/f2b1184d-128d-4bd6-9ee6-c26bb39741a8)
 
 
 
@@ -232,7 +234,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Untitled](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/88badafb-b619-4f92-9726-90e9503c8c27)
+![image](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/e9d9e5b1-67c2-48a4-9b5a-a0a10a2c93db)
 
 
 
@@ -254,7 +256,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Untitled](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/09a7aac6-d771-40e5-9578-ac7621e1daa9)
+![image](https://github.com/JEGADEESH07/COLOR_CONVERSIONS_OF-IMAGE/assets/113497131/027b83a3-ecb2-4536-893a-958de8160569)
 
 
 ## Result:
